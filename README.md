@@ -11,8 +11,8 @@ I’m a MSc student in Applied Mathematics and Data Science at the School of App
 - Graduated in Applied Mathematics;
 - Teaching Assistant at FGV EMAp;
 - Research Assistant at FGV EMAp on two projects:  
-  - Tutorial for the **hdbayes** R package;  
-  - Analysis of the **Contaovos** data.
+  - Tutorial for the [**hdbayes**](https://github.com/ethan-alt/hdbayes) R package;  
+  - Analysis of the [**Contaovos**](https://contaovos.com/pt-br/) data.
 
 ---
 
